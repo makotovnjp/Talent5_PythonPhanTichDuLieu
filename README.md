@@ -5,9 +5,12 @@ https://talent5.com.vn/python-cho-phan-tich-du-lieu
 
 # Hướng dẫn cách nộp bài tập
 1. Bấm vào nút Fork góc trên bên phải của trang web. 
+![Fork](https://i.imgur.com/8nylvo2.png "サンプル")
 
 2. Tạo branch mới với tên branch là email của mình trên repository đã fork 
     - Ví dụ: nguyen.congthanh@hachi-x.com
+    
+    
 3. Clone github
 ```git clone https://github.com/makotovnjp/Talent5_PythonPhanTichDuLieu.git```
 
