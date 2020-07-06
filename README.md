@@ -22,3 +22,6 @@ https://talent5.com.vn/python-cho-phan-tich-du-lieu
     
     5.2. Nhấn vào Create pull request và nếu có thể để lại lời nhắn ở mục 
     ![Create branch](https://i.imgur.com/K7RDrr2.png "サンプル")
+
+6. Chờ phần đánh giá (review) thông qua phần giao tiếp (conversation) của pull request
+![Create branch](https://i.imgur.com/Ysc4rhA.png "サンプル")
